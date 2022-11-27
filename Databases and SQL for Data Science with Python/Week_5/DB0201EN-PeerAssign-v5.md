@@ -115,13 +115,12 @@ In the next cell enter your db2 connection string. Recall you created Service Cr
 # Remember the connection string is of the format:
 # %sql ibm_db_sa://my-username:my-password@my-hostname:my-port/my-db-name?security=SSL
 # Enter the connection string for your Db2 on Cloud database instance below
-%sql ibm_db_sa://ffm24171:Lv6UTshy5aSkezB8@824dfd4d-99de-440d-9991-629c01b3832d.bs2io90l08kqb1od8lcg.databases.appdomain.cloud:30119/bludb?security=SSL
 ```
 
 
 
 
-    'Connected: ffm24171@bludb'
+    'Connected: x@y'
 
 
 
